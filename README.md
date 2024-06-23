@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">I'm Lakshya <br><br>📚 Currently pursuing Electronics and Communication Engineering</p>
+<p align="left">I'm Lakshya <br><br>Electronics and Communication Engineer</p>
 
 ###
 
